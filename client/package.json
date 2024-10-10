@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "proxy": "https://culinary-crafts-food-app.vercel.app/?vercelToolbarCode=kmj2n3OiJp4NXqi",
+  "proxy": "https://backend-ten-mu-30.vercel.app/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
