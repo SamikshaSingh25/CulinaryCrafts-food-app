@@ -103,7 +103,7 @@ const Home = () => {
             <div className={a.mainText}>
               <h1>Recipe</h1>
               <h1>Destination</h1>
-              <p className={a.subText}>Be Your Masterchef {userName && userName}</p>
+              <p className={a.subText}>Be Your Own Masterchef {userName && userName}</p>
               <div className={a.buttons}>
                 <Link to="/recipes" className={a.recipeBtn}>Recipe</Link>
                 <Link to="/cart" className={a.cartBtn}>Cart</Link>
